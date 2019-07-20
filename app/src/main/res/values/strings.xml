@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThanhFoodOrder</string>
+
+    <string name="titleApp">aaa</string>
+    <string name="etUsername">Username</string>
+    <string name="etPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvDescription">BTVN day 06: ThanhOderFood | Design by Thành</string>
+
+    <string name="titleHome">Home</string>
+    <string name="titleDashboard">Dashboard</string>
+    <string name="titleNotification">Notification</string>
+
+    <string name="tvFoodOder">Food Order</string>
+    <string name="btnOder">Order</string>
+</resources>
